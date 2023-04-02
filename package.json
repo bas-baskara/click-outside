@@ -44,5 +44,8 @@
     ]
   },
   "license": "MIT",
-  "author": "Baskara Febrianto"
+  "author": "Baskara Febrianto",
+  "publishConfig": {
+    "access": "public"
+  }
 }
