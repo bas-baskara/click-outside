@@ -49,6 +49,8 @@ function App() {
 
 ```
 
+## Svelte JS
+
 ```javascript
 import clickOutside from 'click-outside-element'
 
