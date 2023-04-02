@@ -18,9 +18,7 @@
     "add-and-push": "git add -A && git-cz && git push"
   },
   "devDependencies": {
-    "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/github": "^8.0.7",
-    "@semantic-release/release-notes-generator": "^10.0.3",
     "cz-conventional-changelog": "^3.3.0",
     "rollup-plugin-typescript2": "^0.34.1",
     "semantic-release": "^19.0.5",
