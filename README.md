@@ -2,7 +2,7 @@ This is a very simple function that I use in most of all the project. Usually I 
 
 # How to use it:
 
-## Vanila JS
+### Vanila JS
 
 ```html
 ...
@@ -25,7 +25,7 @@ clickOutside(document.getElementById("container-wrapper"), handler)
 
 ```
 
-## React JS
+### React JS
 
 ```javascript
 import clickOutside from 'click-outside-element'
@@ -49,7 +49,7 @@ function App() {
 
 ```
 
-## Svelte JS
+### Svelte JS
 
 ```javascript
 import clickOutside from 'click-outside-element'
