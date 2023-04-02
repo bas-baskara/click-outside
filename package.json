@@ -25,6 +25,20 @@
     "typescript": "^4.9.3",
     "vite": "^4.2.0"
   },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bas-baskara/click-outside.git"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
   "license": "MIT",
   "author": "Baskara Febrianto"
 }
